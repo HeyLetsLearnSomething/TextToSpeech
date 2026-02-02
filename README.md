@@ -5,13 +5,9 @@ https://play.google.com/store/apps/details?id=com.ideastocode.texttospeech
 
 Text to Speech – TTS Offline lets you convert any text into natural-sounding speech directly on your device – no internet required! Powered by the Kokoro engine, this app offers 28 high-quality English voices for a fully offline experience.
 
----
-
 ## 📺 Watch the Demo
 
 [![Kokoro TTS Demo](https://img.youtube.com/vi/kOieieb5cRU/0.jpg)](https://www.youtube.com/watch?v=kOieieb5cRU)
-
----
 
 ## ✨ Key Features
 
@@ -19,8 +15,6 @@ Text to Speech – TTS Offline lets you convert any text into natural-sounding s
 - Clean and simple user interface
 - Fast and responsive text-to-voice conversion
 - Works offline
-
----
 
 ## ❓ FAQ
 
