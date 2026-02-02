@@ -28,8 +28,6 @@ No, this app does not require an internet connection. You can convert text to au
 No, the app is completely ad-free 🙂  
 However, the free version includes only 3 voices, while the paid version provides access to all 28 voices.
 
----
-
 ## More Apps from Us
 
 Explore more apps from ideasToCode:  
